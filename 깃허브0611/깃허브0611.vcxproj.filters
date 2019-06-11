@@ -24,5 +24,8 @@
     <ClCompile Include="image.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="포인터12번문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
