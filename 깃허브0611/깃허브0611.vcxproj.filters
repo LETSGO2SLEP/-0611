@@ -18,5 +18,11 @@
     <ClCompile Include="업로드확인.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="중간고사 준비.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="image.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
