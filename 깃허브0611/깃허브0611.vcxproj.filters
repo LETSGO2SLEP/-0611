@@ -15,9 +15,6 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="업로드확인.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
     <ClCompile Include="중간고사 준비.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
@@ -25,6 +22,15 @@
       <Filter>소스 파일</Filter>
     </ClCompile>
     <ClCompile Include="포인터12번문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 함수 정리.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 6번문제.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 정리.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>

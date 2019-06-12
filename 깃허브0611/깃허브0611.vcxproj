@@ -140,9 +140,9 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="image.c" />
-    <ClCompile Include="업로드확인.c">
-      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">true</ExcludedFromBuild>
-    </ClCompile>
+    <ClCompile Include="구조체 정리.c" />
+    <ClCompile Include="문자열 6번문제.c" />
+    <ClCompile Include="문자열 함수 정리.c" />
     <ClCompile Include="중간고사 준비.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
