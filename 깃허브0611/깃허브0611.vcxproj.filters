@@ -13,25 +13,118 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="소스 파일\문제">
+      <UniqueIdentifier>{66eafbbe-9bae-4013-95cd-5b9ec0db0761}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\단원별 정리">
+      <UniqueIdentifier>{f916432c-718e-41a4-9d54-d491a14b9f49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\문자열 문제">
+      <UniqueIdentifier>{2eab000b-93aa-4420-bdfb-645a776acebb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="소스 파일\스트림과 파일 입출력">
+      <UniqueIdentifier>{510650c5-347c-4a64-a5a1-2470690292ec}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="중간고사 준비.c">
-      <Filter>소스 파일</Filter>
-    </ClCompile>
-    <ClCompile Include="image.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="문자열 6번문제.c">
+      <Filter>소스 파일\문제</Filter>
     </ClCompile>
     <ClCompile Include="포인터12번문제.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\문제</Filter>
     </ClCompile>
-    <ClCompile Include="문자열 함수 정리.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="문자열 3번 문제.c">
+      <Filter>소스 파일\문제</Filter>
     </ClCompile>
-    <ClCompile Include="문자열 6번문제.c">
-      <Filter>소스 파일</Filter>
+    <ClCompile Include="포인터 활용 3번 문제.c">
+      <Filter>소스 파일\문제</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 활용 8번 문제.c">
+      <Filter>소스 파일\문제</Filter>
+    </ClCompile>
+    <ClCompile Include="구조체 문제.c">
+      <Filter>소스 파일\문제</Filter>
     </ClCompile>
     <ClCompile Include="구조체 정리.c">
-      <Filter>소스 파일</Filter>
+      <Filter>소스 파일\단원별 정리</Filter>
+    </ClCompile>
+    <ClCompile Include="문자열 함수 정리.c">
+      <Filter>소스 파일\단원별 정리</Filter>
+    </ClCompile>
+    <ClCompile Include="입출력 함수 정리.c">
+      <Filter>소스 파일\단원별 정리</Filter>
+    </ClCompile>
+    <ClCompile Include="중간고사 준비.c">
+      <Filter>소스 파일\단원별 정리</Filter>
+    </ClCompile>
+    <ClCompile Include="포인터 활용.c">
+      <Filter>소스 파일\단원별 정리</Filter>
+    </ClCompile>
+    <ClCompile Include="strtok.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2_1.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2_2.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="2_3.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="3.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="char_process.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="image.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="string_4_3.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="string_4_5.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="string_4_8.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="string_4_11.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="string_4_15.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="string4.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="stringarray1.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="stringarray2.c">
+      <Filter>소스 파일\문자열 문제</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\fgetc.c">
+      <Filter>소스 파일\스트림과 파일 입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\fputc.c">
+      <Filter>소스 파일\스트림과 파일 입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\fseek.c">
+      <Filter>소스 파일\스트림과 파일 입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\5-1.c">
+      <Filter>소스 파일\스트림과 파일 입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\5-2.c">
+      <Filter>소스 파일\스트림과 파일 입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\5-3.c">
+      <Filter>소스 파일\스트림과 파일 입출력</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\binary_file.c">
+      <Filter>소스 파일\스트림과 파일 입출력</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

@@ -139,13 +139,40 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\5-1.c" />
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\5-2.c" />
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\5-3.c" />
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\binary_file.c" />
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\fgetc.c" />
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\fputc.c" />
+    <ClCompile Include="..\..\..\..\Desktop\실습과제\6.7 스트림과 파일입출력\fseek.c" />
+    <ClCompile Include="2_1.c" />
+    <ClCompile Include="2_2.c" />
+    <ClCompile Include="2_3.c" />
+    <ClCompile Include="3.c" />
+    <ClCompile Include="char_process.c" />
     <ClCompile Include="image.c" />
+    <ClCompile Include="string4.c" />
+    <ClCompile Include="stringarray1.c" />
+    <ClCompile Include="stringarray2.c" />
+    <ClCompile Include="string_4_11.c" />
+    <ClCompile Include="string_4_15.c" />
+    <ClCompile Include="string_4_3.c" />
+    <ClCompile Include="string_4_5.c" />
+    <ClCompile Include="string_4_8.c" />
+    <ClCompile Include="strtok.c" />
+    <ClCompile Include="구조체 문제.c" />
     <ClCompile Include="구조체 정리.c" />
+    <ClCompile Include="문자열 3번 문제.c" />
     <ClCompile Include="문자열 6번문제.c" />
     <ClCompile Include="문자열 함수 정리.c" />
+    <ClCompile Include="입출력 함수 정리.c" />
     <ClCompile Include="중간고사 준비.c">
       <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">false</ExcludedFromBuild>
     </ClCompile>
+    <ClCompile Include="포인터 활용 3번 문제.c" />
+    <ClCompile Include="포인터 활용 8번 문제.c" />
+    <ClCompile Include="포인터 활용.c" />
     <ClCompile Include="포인터12번문제.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
