@@ -31,5 +31,5 @@ int struct_main(void)
 	printf("학번 = %d, 이름 = %s, 학점 = %d", (*p).name, (*p).name, (*p).grade);	// *p.
 	printf("학번 = %d, 이름 = %s, 학점 = %d", p->name, p->name, p->grade);		// p->
 
-	// 포인터를 멤보러 가지는 구조체
+	// 포인터를 멤보러 가지는 구조체// 수정
 }
